@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www/thymeleaf.org"
+	th:replace="base::layout(~{::section})">
+<head>
+<meta charset="UTF-8" />
+<title>Home Page</title>
+</head>
+<body>
+	<section
+		class="banner d-flex justify-content-center align-items-center">
+		<div class="text-center">
+			<h1 class="font-weight-bold">Alumni360: A Circle of Our Alumni</h1>
+			<p> Welcome to Alumni360, your gateway to connecting with the successful graduates of our institution.<br>
+	 Our alumni are leaders, innovators, and changemakers in various industries across the globe.<br>
+	 Whether you’re looking for mentorship, networking opportunities, or referrals, <br>
+	 Alumni360 is here to help you connect with the right people.</p>
+			<button class="btn btn-lg bg-primary text-white"><a class="text-white" th:href="@{/user/dashboard}">Get started</a></button>	
+		</div>
+		<script>
+		   $(document).ready(()=>{
+			   $(".nav-item").removeClass("active");
+			   $("#home-route").addClass("active");
+		   });
+		</script>
+	</section>
+</body>
+</html>
