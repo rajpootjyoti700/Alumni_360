@@ -9,32 +9,23 @@
 ## Features Implimented
 *User Registration
 
-*User Login
-
-*ADMIN Panel
-
-*Notification Through Email by Admin to Alumni nd Student**
-
-*Domain Specific Search Functionality in user panel**
-
-*Name Specific Search Functionality in Admin Panel**
-
-*Fogot PassWord OTP Through Email**
-
-*Create Alumni or Student Profile**
-
-*Update Alumni or Student Profile**
-
-*Delete Alumni Or Student Profile**
-
-Change password
-
+**User Login**<br>
+**ADMIN Panel**<br>
+*Notification Through Email by Admin to Alumni nd Student**<br>
+*Domain Specific Search Functionality in user panel**<br>
+*Name Specific Search Functionality in Admin Panel**<br>
+**Fogot PassWord OTP Through Email**<br>
+**Create Alumni or Student Profile**<br>
+**Update Alumni or Student Profile**<br>
+**Delete Alumni Or Student Profile**<br>
+**Change password**<br>
 ## Technologies Used
 **Backend**: Spring Boot<br>
 **Frontend**: Thymleaf,BootStrap<br>
 **Database**: MySQL <br>
 **Authentication**: Spring Security <br>
-## 
+## VIDEO DEMO OF ALUMNI_360:
+[Project Link](https://drive.google.com/file/d/1it20rmSjCIVWFXZXw87um0wiayCE9I48/view?usp=drive_link)
 
 
 
