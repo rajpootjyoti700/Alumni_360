@@ -7,20 +7,17 @@
 
 **Alumni_360 fosters a supportive network, ensuring continuous engagement and professional growth between our alumni and current students.
 ## Features Implimented
--**User Registration
----
--**User Login
----
--** ADMIN Panel**
-
--** Notification Through Email by Admin to Alumni nd Student**
--** Domain Specific Search Functionality in user panel**
--**Name Specific Search Functionality in Admin Panel**
--**Fogot PassWord OTP Through Email**
--**Create Alumni or Student Profile**
--**Update Alumni or Student Profile**
--**Delete Alumni Or Student Profile**
--**Change password**
+####User Registration
+####User Login
+ADMIN Panel
+Notification Through Email by Admin to Alumni nd Student**
+Domain Specific Search Functionality in user panel**
+Name Specific Search Functionality in Admin Panel**
+Fogot PassWord OTP Through Email**
+Create Alumni or Student Profile**
+Update Alumni or Student Profile**
+Delete Alumni Or Student Profile**
+Change password
 
 ## Technologies Used
 Backend: Spring Boot
