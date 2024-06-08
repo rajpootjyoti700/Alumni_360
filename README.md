@@ -8,8 +8,11 @@
 **Alumni_360 fosters a supportive network, ensuring continuous engagement and professional growth between our alumni and current students.
 ## Features Implimented
 -**User Registration
+
 -**User Login
+
 -** ADMIN Panel**
+
 -** Notification Through Email by Admin to Alumni nd Student**
 -** Domain Specific Search Functionality in user panel**
 -**Name Specific Search Functionality in Admin Panel**
