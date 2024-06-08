@@ -37,6 +37,3 @@
 Project Link:- [https://drive.google.com/file/d/1it20rmSjCIVWFXZXw87um0wiayCE9I48/view?usp=drive_link]
 
 
-
-
-](https://github.com/rajpootjyoti700/Alumni_360/tree/main)
