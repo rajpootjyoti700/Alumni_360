@@ -1,4 +1,4 @@
-# Alumni_360: Project Description
+[# Alumni_360: Project Description
 *Alumni_360(A circle of our Alumni ): -  is a platform designed to connect current students with our placed alumni. The portal currently  features  50+  verified Alumni  profiles, with each profile personally authenticated to ensure credibility. Profiles include the alumni's name, profile image, company name, role, batch, and LinkedIn profile.
 
 *Users can search for alumni based on their domain, such as Java Developer, Product Manager, AI/ML Specialist, or Software Engineer, allowing students to seek mentorship, referrals, and other forms of assistance. Due to the sensitive nature of the data, access is restricted to registered users with a valid ID and password.
@@ -39,3 +39,4 @@ Project Link:- [https://drive.google.com/file/d/1it20rmSjCIVWFXZXw87um0wiayCE9I4
 
 
 
+](https://github.com/rajpootjyoti700/Alumni_360/tree/main)
