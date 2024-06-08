@@ -6,5 +6,26 @@
 **An admin panel allows administrators to manage all registered users, send notifications, and control profile access. Current students can register in this portal as domain student nd company college name, and once they secure a placement, they can update their profiles to join as alumni network. Administrators can then verify and add them to the list of placed alumni.
 
 **Alumni_360 fosters a supportive network, ensuring continuous engagement and professional growth between our alumni and current students.
+## Features Implimented
+:>User Registration
+:>User Login
+:> ADMIN Panel
+:> Notification Through Email by Admin to Alumni nd Student
+:> Domain Specific Search Functionality in user panel
+:>Name Specific Search Functionality in Admin Panel
+:>Fogot PassWord OTP Through Email
+:>Create Alumni or Student Profile
+:>Update Alumni or Student Profile
+:>Delete Alumni Or Student Profile
+:>Change password
+
+## Technologies Used
+Backend: Spring Boot
+Frontend: Thymleaf
+Database: MySQL 
+Authentication: Spring Security 
+## 
+
+
 
 
