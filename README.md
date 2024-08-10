@@ -1,3 +1,4 @@
+
 ## Alumni_360: Project Description
 *Alumni_360(A circle of our Alumni ): -  is a platform designed to connect current students with our placed alumni. The portal currently  features  50+  verified Alumni  profiles, with each profile personally authenticated to ensure credibility. Profiles include the alumni's name, profile image, company name, role, batch, and LinkedIn profile.
 
@@ -7,7 +8,12 @@
 
 *Alumni_360 fosters a supportive network, ensuring continuous engagement and professional growth between our alumni and current students.
 ## Features Implimented
+
 **User Registration
+
+https://github.com/user-attachments/assets/fca7d2ad-a3ef-4115-b03b-7821b0ae7988
+
+
 
 **User Login**<br>
 
