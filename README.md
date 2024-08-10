@@ -9,36 +9,31 @@
 *Alumni_360 fosters a supportive network, ensuring continuous engagement and professional growth between our alumni and current students.
 ## Features Implimented
 
-## User Registration
-
+## User Registration(Bcrypt password encoder)
 https://github.com/user-attachments/assets/fca7d2ad-a3ef-4115-b03b-7821b0ae7988
-
-
-
-## User Login
-
-
-
+## User Login(Email Validation through OTP)
 https://github.com/user-attachments/assets/e5ea24b6-29ed-44ee-9072-a3d5e07de04e
+## Forgot Password(Through Email)
+https://github.com/user-attachments/assets/20119135-b1d3-45bb-afda-4f66fdf3e71a
+## Add Alumni (with details, images, description from editor)
+
+## View Alumni (using pagination)
+
+## Search Alumni (by Their Domain they are working currently)
+
+## Update and Delete Alumni
+
+## View And Edit User Profile(name,image,description)
+
+## Change password(old to new)
+
+## Admin Pannel Support
+
+## Search  And Delete Users(by name ,only for Admin)
+
+## Send Notification to users (to their registered email, only for admins)
 
 
-**ADMIN Panel**<br>
-
-**Notification Through Email by Admin to Alumni nd Student**<br>
-
-**Domain Specific Search Functionality in user panel**<br>
-
-**Name Specific Search Functionality in Admin Panel**<br>
-
-***Fogot PassWord OTP Through Email**<br>
-
-**Create Alumni or Student Profile**<br>
-
-**Update Alumni or Student Profile**<br>
-
-**Delete Alumni Or Student Profile**<br>
-
-**Change password**<br>
 ## Technologies Used
 **Backend**: Spring Boot<br>
 **Frontend**: Thymleaf,BootStrap<br>
