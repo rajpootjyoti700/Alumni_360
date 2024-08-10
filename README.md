@@ -9,13 +9,13 @@
 *Alumni_360 fosters a supportive network, ensuring continuous engagement and professional growth between our alumni and current students.
 ## Features Implimented
 
-##User Registration
+## User Registration
 
 https://github.com/user-attachments/assets/fca7d2ad-a3ef-4115-b03b-7821b0ae7988
 
 
 
-#User Login
+## User Login
 
 
 
